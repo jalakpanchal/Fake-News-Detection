@@ -14,28 +14,26 @@ This project detects whether a news article is real or fake using Machine Learni
 
 🌐 Web interface using Flask
 
-⚡ Fast and scalable pipeline/n
+⚡ Fast and scalable pipeline
 
 🌐 Real-Time News Integration
 
-This project uses a news API to fetch latest headlines in real-time and runs them through the fake news detection model.
+**This project uses a news API to fetch latest headlines in real-time and runs them through the fake news detection model.**
 
 **🔌 Supported APIs:**
-_NewsAPI
-GNews API_
+_NewsAPI, GNews API_
 
 **💡 How it Works**
 Fetch latest news using API
+
 Clean and preprocess text
+
 Convert text using TF-IDF
+
 Predict using trained ML model
+
 Display result (Real / Fake) on UI
 
 **🛠️ Tech Stack**
-Python
-Pandas, NumPy
-Scikit-learn
-NLTK / SpaCy
-Flask
-Requests (for API calls)
+Python(Pandas, NumPy), Scikit-learn, NLTK / SpaCy, Flask, Requests (for API calls)
 

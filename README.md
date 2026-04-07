@@ -11,7 +11,8 @@ This project detects whether a news article is real or fake using Machine Learni
 🌐 Real-Time News Integration
 
 This project uses a news API to fetch latest headlines in real-time and runs them through the fake news detection model.
-🔌 Supported APIs
+
+**🔌 Supported APIs**
 _NewsAPI
 GNews API_
 

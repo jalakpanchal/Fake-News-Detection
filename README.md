@@ -30,22 +30,3 @@ NLTK / SpaCy
 Flask
 Requests (for API calls)
 
-**Structure**
-_FAKE NEWS DETECTION PROJECT
-│
-├── BACKEND
-│   ├── app.py
-│   ├── test_api.py
-│   ├── test_model.py
-│
-├── FRONTEND
-│   ├── index.html
-│   ├── script.js
-│   ├── style.css
-│
-├── MODEL
-│   ├── model.pkl 
-│
-├── fake-news.ipynb
-├── Fake.csv
-├── True.csv_
